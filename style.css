@@ -1,0 +1,17 @@
+#{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    font-family:'Segoe' UI,Tahoma,Geneva,Verdana,sans-serif
+}
+body{
+    background:-linear-gradient(to righht,#36d1dc,#5d86e5);
+}
+ .container{
+    border-radius: 10px;
+    width: 400px;
+    margin:auto;
+    margin-top: 100px;
+    padding-bottom: 600px;
+}
+
